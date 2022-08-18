@@ -8,10 +8,10 @@ In order to search for UFO sightings but properties that the user is looking for
 
 ### Filter Examples
 Below, we have typed "el cajon" into the "Enter a City" filter, and pressed Enter. Therefore, only sightings in el cajon show.
-![City_search!](/static/images/City_search.png)
+![City_search](/static/images/City_search.png)
 
 The second example shows how to filter by two things. Type in the desired filters and press enter after each one you complete. 
-![search_2!](/static/images/search_2.png)
+![search_2](/static/images/search_2.png)
 
 ## Summary
 I personally believe that the webpage would be more user friendly if there was an "Apply Filters" button and a "Clear Filters" button. I would also recommend putting dropdown options in the filters instead of freeform text in order to avoid errors. 
